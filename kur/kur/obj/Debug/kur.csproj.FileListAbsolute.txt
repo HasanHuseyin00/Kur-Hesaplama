@@ -1,0 +1,10 @@
+c:\users\mb\documents\visual studio 2017\Projects\kur\kur\bin\Debug\kur.exe.config
+c:\users\mb\documents\visual studio 2017\Projects\kur\kur\bin\Debug\kur.exe
+c:\users\mb\documents\visual studio 2017\Projects\kur\kur\bin\Debug\kur.pdb
+c:\users\mb\documents\visual studio 2017\Projects\kur\kur\obj\Debug\kur.csprojResolveAssemblyReference.cache
+c:\users\mb\documents\visual studio 2017\Projects\kur\kur\obj\Debug\kur.Form1.resources
+c:\users\mb\documents\visual studio 2017\Projects\kur\kur\obj\Debug\kur.Properties.Resources.resources
+c:\users\mb\documents\visual studio 2017\Projects\kur\kur\obj\Debug\kur.csproj.GenerateResource.Cache
+c:\users\mb\documents\visual studio 2017\Projects\kur\kur\obj\Debug\kur.csproj.CoreCompileInputs.cache
+c:\users\mb\documents\visual studio 2017\Projects\kur\kur\obj\Debug\kur.exe
+c:\users\mb\documents\visual studio 2017\Projects\kur\kur\obj\Debug\kur.pdb
